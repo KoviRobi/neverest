@@ -20,8 +20,8 @@ default = [
   "imap",
   "maildir",
   #"notmuch",
-  #"keyring",
-  #"oauth2",
+  "keyring",
+  "oauth2",
   "wizard",
 ]
 
